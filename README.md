@@ -51,7 +51,7 @@ Welcome to my GitHub! I'm passionate about web development, AI, and machine lear
 
 
 ## 📫 Connect with Me
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahad-al-amri/)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahad-jeza-alamri/)
 - Email: [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shahad.jeza.alamri@gmail.com)
 <!--
 **shahad-jeza/shahad-jeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
