@@ -29,8 +29,8 @@ Welcome to my GitHub! I'm passionate about web development, AI, and machine lear
 
 ## 🛠 Hilighted Projects
 
-### 1. **Hospitalization Prediction Website with GAN-Based Data Augmentation & Fall Detection**
-   - Developed a web application to predict hospitalization likelihood and detect falls using a machine learning model. Integrated a GAN-based data augmentation technique to improve prediction accuracy for both hospitalization and fall detection.
+### 1. **Hospitalization Prediction Website with GAN-Based Data Augmentation 
+   - Developed a web application to predict hospitalization likelihood using a machine learning model. Integrated a GAN-based data augmentation technique to improve prediction accuracy for both hospitalization and fall detection.
    - Technologies: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![GAN](https://img.shields.io/badge/GAN-FF5722?style=flat&logo=google&logoColor=white)
    - [GitHub Repository](https://github.com/Shahad-jeza/Dylisis-Hosptilization-predicrtion)
 
