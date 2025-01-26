@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Shahad Al-Amri
-### Full Stack Web Developer | AI & Machine Learning Enthusiast
+### Software Developer | AI & Machine Learning Enthusiast
 
 Welcome to my GitHub! I'm passionate about web development, AI, and machine learning. I love building impactful solutions with the latest technologies.
 
